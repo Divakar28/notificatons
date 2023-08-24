@@ -1,0 +1,38 @@
+/* Write your code here. */
+.head {
+  color: black;
+  font-family: "Roboto";
+  text-align: center;
+}
+.cont {
+  display: flex;
+  justify-content: center;
+}
+.content-container {
+  display: flex;
+  flex-direction: row;
+}
+.information {
+  color: white;
+  background-color: #0b69ff;
+  font-family: "Roboto";
+  padding: 10px;
+}
+.success {
+  color: white;
+  background-color: #2dca73;
+  font-family: "Roboto";
+  padding: 10px;
+}
+.warning {
+  color: white;
+  background-color: yellow;
+  font-family: "Roboto";
+  padding: 10px;
+}
+.Error {
+  color: white;
+  background-color: red;
+  font-family: "Roboto";
+  padding: 10px;
+}
